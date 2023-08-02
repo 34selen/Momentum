@@ -26,9 +26,6 @@ img {
     text-align: right;
     width:200px;
     float: right;
-
-
-    
 }
 #todo-form{
     text-align:right;
@@ -46,4 +43,7 @@ img {
 button{
     background-color: transparent;
     border:none;
+}
+#login-form{
+    text-align:center;
 }
